@@ -1,7 +1,15 @@
 These are Arduino Sketches used for making mods for various pinball machines
 # professor_pinball_boards
 
+
+The .sch and .brd files were generated using Autodesk Eagle PCB CAD software: https://www.autodesk.com/products/eagle/free-download
+
+There are .zip files that can be submitted directly to SEEED Fusion for PCB manufacturing: https://www.seeedstudio.com/fusion.html
+
+
 All boards are released with the Gnu Public License 3.0: https://www.gnu.org/licenses/gpl-3.0.en.html
+
+
 
 
 GNU GENERAL PUBLIC LICENSE
