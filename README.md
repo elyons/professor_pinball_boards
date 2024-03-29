@@ -9,7 +9,7 @@ There are .zip files that can be submitted directly to SEEED Fusion for PCB manu
 
 All boards are released with the Gnu Public License 3.0: https://www.gnu.org/licenses/gpl-3.0.en.html
 
-
+---
 
 
 GNU GENERAL PUBLIC LICENSE
