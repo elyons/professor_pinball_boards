@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Pinduino-Nano-Sys11a")(type "KiCad")(uri "$(KIPRJMOD)/Pinduino-Nano-Sys11a.pretty")(options "")(descr ""))
+)
